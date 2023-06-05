@@ -1,5 +1,4 @@
 using CQRSWithoutMediatR.Entities;
-using CQRSWithoutMediatR.Repositories;
 using Students.Commands;
 using Students.Queries;
 
